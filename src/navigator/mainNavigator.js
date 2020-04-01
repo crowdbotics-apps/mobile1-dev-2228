@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import UserProfile1251Navigator from '../features/UserProfile1251/navigator';
 import UserProfile1250Navigator from '../features/UserProfile1250/navigator';
-import UserProfile1249Navigator from '../features/UserProfile1249/navigator';
 import UserProfile1248Navigator from '../features/UserProfile1248/navigator';
 import UserProfile1247Navigator from '../features/UserProfile1247/navigator';
 import UserProfile1246Navigator from '../features/UserProfile1246/navigator';
@@ -24,7 +23,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 UserProfile1251: { screen: UserProfile1251Navigator },
 UserProfile1250: { screen: UserProfile1250Navigator },
-UserProfile1249: { screen: UserProfile1249Navigator },
 UserProfile1248: { screen: UserProfile1248Navigator },
 UserProfile1247: { screen: UserProfile1247Navigator },
 UserProfile1246: { screen: UserProfile1246Navigator },
